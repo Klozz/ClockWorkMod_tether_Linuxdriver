@@ -34,7 +34,7 @@
   "main": "./lib/npm.js",
   "bin": "./bin/npm-cli.js",
   "dependencies": {
-    "semver": "~1.1.0",
+    "semver": "~4.3.2",
     "ini": "~1.0.5",
     "slide": "1",
     "abbrev": "1",
@@ -44,7 +44,7 @@
     "rimraf": "2",
     "request": "~2.9",
     "which": "1",
-    "tar": "~0.1.12",
+    "tar": "~2.0.0",
     "fstream": "~0.1.17",
     "block-stream": "*",
     "inherits": "1",
